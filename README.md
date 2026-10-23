@@ -45,6 +45,8 @@ notebooks/
 ├── 01_dataset_understanding.ipynb
 ├── 02_data_cleaning.ipynb
 └── 03_data_integration.ipynb
+└── 04_EDA.ipynb
+
 ```
 
 ## Setup
