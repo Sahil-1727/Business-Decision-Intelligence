@@ -34,7 +34,8 @@ other python Frameworks and Modules
 | 02_data_cleaning | Date type conversions, null inspection, saving all datasets to `data/processed/` | ✅ Complete |
 | 03_data_integration | Joining tables, building master dataset | ✅ Complete |
 | 04_eda | Exploratory data analysis, business patterns | ✅ Complete |
-| 05_feature_engineering | Customer-level features, RFM, churn target definition | 🔄 In Progress |
+| 05_feature_engineering | Customer-level features, RFM, churn target definition | ✅ Complete |
+| 06_customer_intelligence | Customer segmentation, churn risk modeling | 🔄 In Progress |
 
 ## Project Structure
 
@@ -48,7 +49,8 @@ notebooks/
 ├── 02_data_cleaning.ipynb
 ├── 03_data_integration.ipynb
 ├── 04_EDA.ipynb
-└── 05_feature_engineering.ipynb
+├── 05_feature_engineering.ipynb
+└── 06_customer_intelligence.ipynb
 
 ```
 
