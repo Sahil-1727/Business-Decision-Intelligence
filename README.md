@@ -35,7 +35,9 @@ other python Frameworks and Modules
 | 03_data_integration | Joining tables, building master dataset | ✅ Complete |
 | 04_eda | Exploratory data analysis, business patterns | ✅ Complete |
 | 05_feature_engineering | Customer-level features, RFM, churn target definition | ✅ Complete |
-| 06_customer_intelligence | Customer segmentation, churn risk modeling | 🔄 In Progress |
+| 06_customer_intelligence | Customer segmentation, churn risk modeling | ✅ Complete |
+| 07_modeling | ML models, evaluation, business interpretation | ⏳ Pending |
+| 08_decision_engine | Combining model outputs into recommendations | ⏳ Pending |
 
 ## Project Structure
 
